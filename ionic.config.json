@@ -1,0 +1,7 @@
+{
+  "name": "fw-react-test-routing",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
